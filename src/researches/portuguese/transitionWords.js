@@ -1,9 +1,9 @@
 const singleWords = [
-	"ademais", "afinal", "aliás", "analogamente", "anteriormente", "assim", "certamente", "conforme",
+	"ademais", "afinal", "aliás", "analogamente", "anteriormente", "assim", "basicamente", "certamente", "conforme",
 	"conquanto", "contudo", "decerto", "embora", "enfim", "enquanto", "então", "entretanto", "eventualmente",
 	"igualmente", "inegavelmente", "inesperadamente", "mas", "outrossim", "pois", "porquanto", "porque", "portanto",
 	"posteriormente", "precipuamente", "primeiramente", "primordialmente", "principalmente", "salvo",
-	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia",
+	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia", "visualmente",
 ];
 
 const multipleWords = [
